@@ -3,13 +3,10 @@ uvicorn[standard]==0.23.2
 python-dotenv==1.0.0
 playwright==1.46.0
 httpx==0.28.1
-aiohttp==3.8.4
+aiohttp==3.9.5
 deepseek==1.0.0
 openai==1.0.0
 pandas==2.2.3
 pdfplumber==0.10.3
 beautifulsoup4==4.12.2
-lxml==4.9.3
-Pillow==10.4.0
-python-magic==0.4.27
-requests-html==0.10.0
+lxml
